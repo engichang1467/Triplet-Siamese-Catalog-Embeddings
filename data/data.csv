@@ -1,0 +1,452 @@
+QUERY_TEXT,POSITIVE,NEGATIVE
+desserts, shakes,veggie burger with cheeese
+sushi, thai chef fresh rolls, meat lasagna
+acai bowl, acai bowl delivered, mint chocolate chip polar pizza
+cupcake, carrot, buffalo chicken
+consultative approach, apple pie, broccoli
+goat cheese, goat cheese salad, lamb biryani
+creole, etouffee, meatloaf
+porchetta, pork rinds, avocado toast
+pad thai, chicken satay, pasta salad
+whisky, crocodile, milkshake
+biscuits, chocolate chip, key lime pie
+coq au vin, chicken cordon bleu, spinach
+sushi, sea bass, salmon pie
+lentil soup, chicken noodle soup, burger
+bubble tea, Oolong tea, Irish cream
+cornbread, johnny cake, chocolate yogurt
+strata, zucchini, banana bread
+cauliflower rice, white rice, potato wedges
+sushi roll, chicken wing, beef wellington
+pasta e ceci, pasta carbonara, mashed potatoes
+falafel, hummus, charcuterie board
+gyro, lamb chop, jerk chicken
+wonton soup, chicken tortilla soup, gazpacho
+brunch, breakfast casserole, oatmeal
+chorizo, sausage and peppers, brisket
+pav bhaji, saag paneer, tuna casserole
+zucchini noodle, cauliflower mash, collard
+alcohol,beer tasting,hard liquor
+backed goods,tapestries,bed pillows
+bowl,walnut bowl,mixing bowl
+bread,italian bread,baguette
+breakfast,continental breakfast,parfait
+burger,chicken burger,veggie burger
+burrito,chicken burrito,beef burrito
+cake,black forest cake,red velvet cake
+chicken,fried chicken,roasted chicken
+coffee,latte art,cold brew
+cookie,oatmeal raisin,chocolate chip
+curry,chicken curry,beef rendang
+dessert,gelato flavors,sponge cake
+donut,chocolate donut,custard donut
+dumpling,pork dumplings,vegetarian dumpling
+eggs,egg white omelet,scrambled eggs
+fried food,french fries,fried rice
+fries,garlic fries,cheese fries
+hot dog,chili dog,veggie dog
+huevos con jamon,broken yolk,overeasy egg
+ice cream,vanilla ice cream,chocolate ice cream
+juice,fruit juice,vegetable juice
+noodle,soba noodles,pasta noodles
+pancake,buttermilk pancake,german pancake
+pasta,spaghetti pasta,macaroni pasta
+pie,apple pie,pecan pie
+pizza,cheese pizza,deep-dish pizza
+plate,appetizer plate,dinner plate
+poke,salmon poke,beef poke
+rice,white rice,fried rice
+salad,caesar salad,garden salad
+sandwich,grilled cheese sandwich,BLT
+sauce,pizza sauce,Alfredo sauce
+seafood,lobster roll,fish tacos
+skewer,chicken skewer,vegetable skewer
+smoothie,banana smoothie,berry smoothie
+soda,coca-cola,root beer
+soup,chicken noodle soup,tomato soup
+steak,ribeye steak,porterhouse steak
+stir fry,chicken stir fry,vegetable stir fry
+sushi,salmon sushi,spicy sushi roll
+taco,chicken taco,hard-shell taco
+tea,iced tea,sweet tea
+water,still water,sparkling water
+wings,buffalo wings,BBQ wings
+wrap,tortilla wrap,spinach wrap
+alcohol, moonshine made from sweet potatoes, sour pork chops
+backed goods, lays classic potato chips, acrylic yarn lace knitting pattern
+bowl, noodle bowl, chocolate pudding cup
+bread, garlic bread, chocobo cake
+breakfast, breakfast casserole, succahdick
+burger, cheeseburger, beef patty tenderized via the shwarma method
+burrito, pork burrito, potato taco
+cake, black forest cake, gingerbread man latte cake
+chicken, fried chicken, chicken pot pie
+coffee, cappuccino, espresso martini
+cookie, macaron, oreo cookie
+curry, chicken curry, coconut curry noodle soup
+dessert, strawberry jelly, ice cream soda
+donut, apple cinnamon donut, chocolate dipped sprinkle donut
+dumpling, potsticker, shrimp dumpling
+eggs, easter bread, stringy eggs mashed with vegetables
+fried food, french fries, fried branzino
+fries, curly fries, crispy fried brussel sprouts
+hot dog, chili dog, a corndog
+huevos con jamon, scrambled eggs with ham and green onions, egg sandwich
+ice cream, chocolate ice cream, vanilla ice cream pie
+juice, bloody mary, fruit juice
+mixed vegetables, vegetable soup, ratatouille
+noodle, chicken lo mein, peanut butter noodles
+pancake, potato pancake, blueberry pancake
+pasta, tortellini, ravioli
+pie, chicken pot pie, apple pie
+pizza, meat lover's pizza, pepperoni pizza
+plate, decorative plate, plastic plate
+poke, tofu poke, octopus poke
+rice, rice pudding, garlic rice
+salad, egg salad, beet salad
+sandwich, grilled cheese sandwich, roast beef sandwich
+sauce, barbecue sauce, teriyaki sauce
+seafood, squid, crab cake
+skewer, vegetable skewer, lamb skewer
+smoothie, banana smoothie, broccoli smoothie
+soda, coke, ginger ale
+soup, chicken noodle soup, tomato bisque
+steak, rib eye steak, london broil
+stir fry, beef and broccoli stir fry, cashew stir fry
+sushi, california roll, spicy tuna roll
+taco, soft taco, crispy taco
+tea, iced tea, sweet tea
+water, still water, sparkling water
+wings, barbeque wings, fried wings
+wrap, turkey wrap, tortilla wrap
+alcohol, beer, bible verses
+backed goods, chip, usb chord
+bowl, rice bowl, mixing bowl
+bread, garlic bread, zopf loaf
+breakfast, cereal, cold coffee
+burger, turkey burger, veggie burger
+burrito, fish burrito, steak burrito
+cake, red velvet cake, chocolate cake
+chicken, fried chicken, chicken sandwich
+coffee, latte, cold coffee
+cookie, oatmeal raisin, chip cookie
+curry, curry rice, japanese curry
+dessert, cheese cake, black forest cake
+donut, donut holes, jelly filled donut
+dumpling, pork dumplings, mandu
+eggs, egg white, egg yolk
+fried food, french fries, fried ice cream
+fries, curly fries, potato wedges
+hot dog, beef hot dog, vegetarian hot dog
+huevos con jamon, ham and eggs, jamon y churros
+ice cream, vanilla ice cream, chocolate ice cream
+juice, apple juice, grape juice
+noodle, soba noodles, spaghetti
+pancake, potato pancakes, blueberry pancake
+pasta, linguine, penne pasta
+pie, apple pie, chicken pot pie
+pizza, pepperoni pizza, hawaiian pizza
+plate, salad plate, appetizer plate
+poke, poke bowl, sushi bowl
+rice, sushi rice, rice pudding
+salad, caesar salad, garden salad
+sandwich, grilled cheese sandwich, BLT sandwich
+sauce, pesto sauce, marinara sauce
+seafood, sushi, lobster
+skewer, vegetable skewer, fruit skewer
+smoothie, banana smoothie, strawberry smoothie
+soda, coca-cola, diet coke
+soup, tomato soup, miso soup
+steak, ribeye steak, t-bone steak
+stir fry, beef and broccoli, chicken stir fry
+sushi, tuna roll, spicy tuna roll
+taco, soft taco, hard taco
+tea, ice tea, long island tea
+water, still water, sparkling water
+wings, fried chicken wings, smoked chicken wings
+wrap, tortilla wrap, chicken wrap
+alcohol, beer, apple martini 
+backed goods, rice cooker, linen napkins
+bowl, noodle bowl, ice cream bowl
+bread, bread basket, butter
+breakfast, bacon and eggs, oatmeal
+burger, veggie burger, beef burger
+burrito, chicken burrito, beef burrito
+cake, black forest cake, cheesecake
+chicken, fried chicken, baked chicken
+coffee, cappuccino, espresso
+cookie, chocolate chip cookie, oatmeal raisin cookie
+curry, chicken curry, lentil dahl
+dessert, lemon sorbet, pumpkin pie
+donut, chocolate donut, apple fritter
+dumpling, pork dumpling, mandoo
+eggs, sunny side up eggs, hard boiled eggs
+fried food, french fries, fried rice
+fries, curly fries, shoestring fries
+hot dog, chilli dog, sausage dog
+huevos con jamon, huevos rancheros, chicken salami
+ice cream, vanilla ice cream, chocolate ice cream
+juice, apple juice, grape juice
+mixed vegetables, ratatouille, cole slaw
+noodle, soba noodle, pasta noodle
+pancake, buttermilk pancake, flapjack
+pasta, spaghetti, macaroni
+pie, apple pie, chicken pot pie
+pizza, pepperoni pizza, vegetarian pizza
+plate, dinner plate, salad plate
+poke, tuna poke, chicken poke
+rice, brown rice, white rice
+salad, garden salad, three bean salad
+sandwich, grilled cheese sandwich, BLT
+sauce, marinara sauce, pesto sauce
+seafood, salmon fillet, squid rings
+skewer, chicken skewer, fruit skewer
+smoothie, strawberry smoothie, protein smoothie
+soup, chicken noodle soup, lentil soup
+steak, t-bone steak, rib eye steak
+stir fry, chicken stir fry, beef and broccoli
+sushi, salmon sushi, sushi roll
+taco, soft taco, hard taco
+tea, green tea, chamomile tea
+water, still water, sparkling water
+wings, buffalo wings, crispy wings
+wrap, tortilla wrap, pita wrap
+alcohol, craft beer, soft drinks
+backed goods, cheese danish, doughnuts
+bowl, poke bowl, cereal
+bread, sourdough, rice cakes
+breakfast, eggs benedict, cold cereal
+burger, double patty burger, deconstructed burger
+burrito, chicken burrito, seafood burrito
+cake, cheesecake, rice pudding
+chicken, chicken parmesan, chicken pot pie
+coffee, cold brew, decaf coffee
+cookie, chocolate chip cookies, oatmeal raisin cookies
+curry, chicken tikka masala, sweet potato curry
+dessert, apple crumble, grilled vegetables
+donut, glazed donut, salad
+dumpling, pork dumplings, crab rangoons
+eggs, scrambled eggs, hard boiled eggs
+fried food, fried shrimp, steamed broccoli
+fries, cheese fries, mashed potatoes
+hot dog, classic hot dog, vegetarian hot dog
+huevos con jamon, bacon and eggs, huevos rancheros
+ice cream, chocolate ice cream, strawberry sorbet
+juice, orange juice, beet juice
+mixed vegetables, stir-fried veggies, veggie chips
+noodle, pad thai, egg noodles
+pancake, buttermilk pancakes, crepes
+pasta, carbonara, whole wheat penne with tomato sauce
+pie, pumpkin pie, quiche
+pizza, margherita pizza, cold pizza
+plate, fish and chips, hummus plate
+poke, ahi tuna poke, pineapple poke
+rice, fried rice, rice noodles
+salad, ceasar salad, pasta salad
+sandwich, cuban sandwich, jelly sandwich
+sauce, barbecue sauce, ketchup
+seafood, salmon, calamari
+skewer, shrimp skewers, vegetable kabobs
+skewers, meatball skewers, chocolate covered strawberries
+smoothie, tropical smoothie, green smoothie
+soda, cola, diet soda
+soup, clam chowder, popcorn
+steak, ribeye steak, steak tartare
+stir fry, beef and broccoli stir fry, sweet and sour stir fry
+sushi, california rolls, tempura sushi
+taco, fish tacos, vegetarian tacos
+tea, earl grey tea, sweet and spicy tea
+water, bottled water, dirty tap water
+wings, buffalo wings, chicken wings with blue cheese dressing
+wrap, chicken wrap, hummus wrap
+alcohol, cold beer, warm wine
+backed goods, apple pie, crustless quiche
+bowl, fruit salad bowl, empty bowl of cereal
+bread, multigrain bread, stale rye bread
+breakfast, omelet, cold oatmeal
+burger, juicy burger with cheese, raw burger patty
+burrito, shrimp burrito, burrito bowl (no rice)
+cake, red velvet cake, dry sponge cake
+chicken, roasted chicken, chicken nuggets
+coffee, espresso, cold instant coffee
+cookie, soft oatmeal raisin cookies, hard gingerbread cookies
+curry, yellow chicken curry, bitter vegetable curry
+dessert, crème brûlée, grilled haloumi
+donut, chocolate glazed donut, donut holes
+dumpling, steamed pork dumplings, fried cheese ravioli
+eggs, scrambled eggs with cheese, hard-boiled eggs with runny yolks
+fried food, fried chicken, deep-fried ice cream
+fries, curly fries, over-salted fries
+hot dog, classic all-beef hot dog, small frankfurter
+huevos con jamon, traditional huevos con jamon, ham and eggs (overcooked)
+ice cream, cookie dough ice cream, sugar-free ice cream
+juice, fresh orange juice, pulpy watermelon juice
+mixed vegetables, roasted veggies, canned vegetable medley
+noodle, ramen, undercooked spaghetti
+pancake, fluffy pancakes, rubbery crepes
+pasta, alfredo pasta, pasty macaroni and cheese
+pie, pecan pie, pumpkin pie with burnt crust
+pizza, margherita pizza, cold deep-dish pizza
+plate, salmon and asparagus, empty plate with greasy residue
+poke, ahi tuna poke, poke with too much onion
+rice, jasmine rice, rice that's stuck together
+salad, greek salad, wilted caesar salad
+sandwich, reuben sandwich, wet and soggy BLT
+sauce, garlic aioli, sour cream
+seafood, crab legs, fish with a fishy smell
+skewer, lamb skewers, cold vegetable skewers
+skewers, shrimp skewers, fruit kebabs
+smoothie, mango smoothie, lumpy avocado smoothie
+soda, cherry cola, flat ginger ale
+soup, tomato soup, bitter broccoli soup
+steak, medium-rare steak, well-done steak with shoe leather texture
+stir fry, beef and pepper stir fry, greasy vegetable stir fry
+sushi, salmon sushi, vinegary rice balls
+taco, fish tacos, beef tacos with stale tortillas
+tea, earl grey tea, bitter chamomile tea
+water, cold mineral water, tap water with a funny taste
+wings, spicy buffalo wings, over-breaded chicken wings
+wrap, chicken Caesar wrap, damp tortilla wrap with limp vegetables
+alcohol, aged whiskey, sour mix drinks
+backed goods, cheesecake bites, hard biscuits
+bowl, buddha bowl, cereal with soupy milk
+bread, freshly baked baguette, moldy multigrain bread
+breakfast, avocado toast, cold scrambled eggs
+burger, juicy bacon cheeseburger, burger with cold fries
+burrito, super wet burrito, dry chicken burrito
+cake, moist chocolate cake, crumbly carrot cake
+chicken, chicken breast with crispy skin, overcooked chicken nuggets
+coffee, pour-over coffee, cold drip coffee with a bitter aftertaste
+cookie, warm chocolate chip cookies, hard ginger snap cookies
+curry, mild coconut curry, spicy lentil curry with too much chili
+dessert, chocolate fondue, grilled squid
+donut, Boston cream donut, old greasy donuts
+dumpling, steamed shrimp dumplings, doughy potato pierogi
+eggs, poached eggs, rubbery boiled eggs
+fried food, crispy fried shrimp, soggy deep-fried twinkies
+fries, thick-cut fries, thin, greasy fries
+hot dog, Chicago-style hot dog, hot dog with a cold bun
+huevos con jamon, perfectly seasoned huevos con jamon, ham and eggs with runny jamon
+ice cream, Italian gelato, frozen yogurt with artificial flavors
+juice, freshly squeezed grapefruit juice, pulpy orange juice with too much pulp
+mixed vegetables, ratatouille, canned vegetable mix with water chestnuts
+noodle, dan dan noodles, sticky rice noodles
+pancake, fluffy buttermilk pancakes, pancakes with tough batter
+pasta, creamy carbonara, mushy overcooked spaghetti
+pie, double crust apple pie, pumpkin pie with a burnt crust
+pizza, wood-fired margherita pizza, cold deep-dish sausage pizza
+plate, seared ahi tuna with wasabi, cold leftover pasta
+poke, traditional Hawaiian poke, poke with rubbery fish
+rice, basmati rice, rice that's clumpy and undercooked
+salad, kale and avocado salad, wilted garden salad with old lettuce
+sandwich, French dip sandwich, wet tuna salad sandwich
+sauce, homemade pesto, sour and lumpy ranch dressing
+seafood, garlic butter shrimp, fish with an unpleasant fishy odor
+skewer, beef skewers with spicy sauce, charred vegetable skewers
+skewers, marinated shrimp skewers, fruit skewer with melted chocolate
+smoothie, banana and peanut butter smoothie, grassy tasting green smoothie
+soda, root beer float, flat cola with ice
+soup, rich cream of mushroom soup, watery tomato soup
+steak, medium-rare ribeye with herb crust, well-done steak with a charred exterior
+stir fry, shrimp and vegetable stir fry, greasy cashew chicken
+sushi, fresh sashimi, vinegar-soaked rice balls
+taco, crispy fish tacos, beef tacos with tough meat
+tea, matcha green tea latte, bitter herbal tea blend
+water, cold coconut water, tap water with a strange color
+wings, spicy buffalo wings with blue cheese dip, over-breaded and soggy wings
+wrap, whole wheat chicken wrap, soggy tortilla wrap with drippy sauce
+alcohol, craft beer, hard liquor
+backed goods, apple pie, doughnuts
+bowl, poke bowl, cereal bowl
+bread, sourdough, white bread
+breakfast, omelette, sugary cereal
+burger, burger with the works, fast food burger
+burrito, chicken burrito, bean burrito
+cake, cheesecake, fruit cake
+chicken, grilled chicken, fried chicken
+coffee, cold brew, instant coffee
+cookie, chocolate chip cookies, gingerbread cookies
+curry, green curry, spicy curry
+dessert, chocolate mousse, deep-fried ice cream
+donut, glazed donut, old donuts
+dumpling, meat dumplings, crab rangoons
+eggs, scrambled eggs, over-hard eggs
+fried food, fried shrimp, french fries
+fries, sweet potato fries, greasy fries
+hot dog, all-beef hot dog, vegetarian hot dog
+huevos con jamon, traditional dish, runny eggs
+ice cream, cookie dough ice cream, sugar-free ice cream
+juice, orange juice, beet juice
+mixed vegetables, stir-fry veggies, canned veggies
+noodle, ramen, egg noodles
+pancake, buttermilk pancakes, rubbery pancakes
+pasta, pasta salad, overcooked spaghetti
+pie, apple pie, pumpkin pie
+pizza, thin crust pizza, deep-dish pizza
+plate, fish and chips, cold cuts plate
+poke, ahi tuna poke, poke salad
+rice, jasmine rice, undercooked rice
+salad, garden salad, pasta salad
+sandwich, club sandwich, jelly sandwich
+sauce, barbecue sauce, mayonnaise
+seafood, grilled salmon, calamari
+skewer, shrimp skewers, meatball skewers
+skewers, vegetable skewers, fruit skewers with chocolate
+smoothie, tropical smoothie, lumpy avocado smoothie
+soda, cherry cola, flat soda
+soup, chicken noodle soup, thick tomato soup
+steak, ribeye steak, well-done steak
+stir fry, shrimp stir fry, greasy stir fry
+sushi, California rolls, fishy sushi
+taco, fish tacos, beef tacos
+tea, green tea, bitter tea
+water, coconut water, tap water
+wings, buffalo wings, overbreaded wings
+wrap, chicken wrap, vegetarian wrap
+alcohol, beer, grape juice 
+backed goods, ceramic plate, linen napkin 
+bowl, ramen bowl, empty bowl 
+bread, wheat bread, white bread 
+breakfast, continental breakfast, parfait 
+burger, veggie burger, beef burger 
+burrito, chicken burrito, vegetarian burrito 
+cake, black forest cake, cheesecake 
+chicken, crispy chicken, boiled chicken 
+coffee, espresso, caramel latte 
+cookie, chocolate chip cookie, oatmeal raisin cookie 
+curry, vegetable curry, chicken curry 
+dessert, apple crumble, ice cream 
+donut, chocolate donut, vanilla donut 
+dumpling, potsticker, steamed bun 
+eggs, sunny side up eggs, hard boiled eggs 
+fried food, french fries, fried rice 
+fries, steak fries, crispy fries 
+hot dog, chilli dog, bun-less hot dog 
+huevos con jamon, pork chop and eggs, Spanish omelette 
+ice cream, chocolate ice cream, vanilla ice cream 
+juice, apple juice, orange juice 
+mixed vegetables, stir-fry, vegetable soup 
+noodle, soba noodles, spaghetti 
+pancake, banana pancake, potato pancake 
+pasta, tortellini, macaroni pasta 
+pie, chocolate cream pie, apple pie 
+pizza, deep dish pizza, pepperoni pizza 
+plate, dinner plate, salad plate 
+poke, salmon poke bowl, tuna poke bowl 
+rice, sushi rice, brown rice 
+salad, garden salad, Caesar salad 
+sandwich, BLT sandwich, grilled cheese 
+sauce, tomato sauce, pesto sauce 
+seafood, salmon fillet, fried shrimp 
+skewer, meat skewer, vegetable skewer 
+skewers, chicken skewers, fruit skewer 
+smoothie, banana smoothie, strawberry smoothie 
+soda, coke, pepsi 
+soup, chicken noodle soup, tomato soup 
+steak, rib eye steak, sirloin steak 
+stir fry, vegetable stir fry, beef stir fry 
+taco, soft taco, crispy taco 
+tea, chai tea, iced tea 
+water, still water, sparkling water 
+wings, buffalo wings, crispy wings 
+wrap, turkey wrap, tortilla wrap 
